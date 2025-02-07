@@ -10,3 +10,5 @@ Stupidly expensive acrylic stack fightstick
 - 10x Middle panel (you can do a different amount but I think 10x will be best)
 - 1x bottom panel
 - No respect for your time or money
+
+DISCLAIMER I have no idea if this will actually go together I ain't spending the money to build it lol
