@@ -11,7 +11,7 @@ Stupidly expensive acrylic stack fightstick
 - 1x bottom panel
 - No respect for your time or money
 
-**DISCLAIMER 
-I have no idea if this will actually go together I ain't spending the money to build it lol**
+## DISCLAIMER & Special Thanks 
+**I have no idea if this will actually go together I ain't spending the money to build it lol**
 
 Special thanks to Eiste, Hawkeye and Karina for their continued support in this project
