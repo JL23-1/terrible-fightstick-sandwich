@@ -1,5 +1,7 @@
 # terrible-fightstick-sandwich
 Stupidly expensive acrylic stack fightstick
+![terriblesandwich](https://github.com/user-attachments/assets/6d0a0b4e-346d-4bc0-8463-6bbd35732eab)
+
 ## You will need:
 - 16x m4 screws
 - 6x m4 hex standoffs that are long enough for however many middle bits you're using
