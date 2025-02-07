@@ -16,4 +16,7 @@ Stupidly expensive acrylic stack fightstick
 ## DISCLAIMER & Special Thanks 
 **I have no idea if this will actually go together I ain't spending the money to build it lol**
 
-Special thanks to Eiste, Hawkeye and Karina for their continued support in this project
+
+Special thanks to eiste, hawkeye2108 and bol.sadguy from the r/fightsticks discord for their continued support in this project.
+
+Extra special thanks to lethalmonk6 from the r/fightsticks discord for making the render seen in this readme
